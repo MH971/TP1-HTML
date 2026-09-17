@@ -1,2 +1,2 @@
 # TP1-HTML
-Voici Mon TP d'HTML j'ai beaucoup aimé et j'ai appris des choses sur ce tp
+Voici un TP d'HTML que j'ai effectuée en BTS j'ai beaucoup aimé et j'ai appris des choses sur ce TP
